@@ -21,7 +21,7 @@ The primary purpose of this project is to develop a reliable and efficient model
 
 **Installation**
 To run this project locally, follow these steps: 
-**Clone the repository:** git clone https://github.com/Davedigital9/credit-score-classification.git
+**Clone the repository:** git clone https://github.com/Davedigital9/credit-score-classification.git 
 **Navigate to the project directory:** cd credit-score-classification
 **Install the required dependencies:** pip install -r requirements.txt
 
